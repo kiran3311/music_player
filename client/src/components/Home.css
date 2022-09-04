@@ -1,0 +1,17 @@
+
+.title-contain{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#add-btn{
+    float: right;
+    margin-right: 20px;
+    
+}
+img{
+    height: 100px;
+    width: 100px;
+   margin-left: 20px;
+}
+
